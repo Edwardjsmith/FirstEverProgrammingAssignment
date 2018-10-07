@@ -1,0 +1,10 @@
+﻿  main.cpp
+e:\uni\uni work\edwardjacksmith_q12934917_cgp400_assessment_ae1\edwardsmithq12934917ae1\edwardsmithq12934917ae1\main.cpp(130): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+e:\uni\uni work\edwardjacksmith_q12934917_cgp400_assessment_ae1\edwardsmithq12934917ae1\edwardsmithq12934917ae1\main.cpp(168): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+e:\uni\uni work\edwardjacksmith_q12934917_cgp400_assessment_ae1\edwardsmithq12934917ae1\edwardsmithq12934917ae1\main.cpp(269): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+e:\uni\uni work\edwardjacksmith_q12934917_cgp400_assessment_ae1\edwardsmithq12934917ae1\edwardsmithq12934917ae1\main.cpp(308): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+e:\uni\uni work\edwardjacksmith_q12934917_cgp400_assessment_ae1\edwardsmithq12934917ae1\edwardsmithq12934917ae1\main.cpp(343): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+e:\uni\uni work\edwardjacksmith_q12934917_cgp400_assessment_ae1\edwardsmithq12934917ae1\edwardsmithq12934917ae1\main.cpp(412): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+e:\uni\uni work\edwardjacksmith_q12934917_cgp400_assessment_ae1\edwardsmithq12934917ae1\edwardsmithq12934917ae1\main.cpp(432): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+e:\uni\uni work\edwardjacksmith_q12934917_cgp400_assessment_ae1\edwardsmithq12934917ae1\edwardsmithq12934917ae1\main.cpp(24): warning C4101: 'defend': unreferenced local variable
+  EdwardSmithQ12934917AE1.vcxproj -> E:\Uni\Uni Work\EdwardJackSmith_Q12934917_CGP400_Assessment_AE1\EdwardSmithQ12934917AE1\Debug\EdwardSmithQ12934917AE1.exe
